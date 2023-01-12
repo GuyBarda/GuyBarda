@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Airbxb - an Airbnb clone](https://air-bxb.onrender.com/)
 
-- 🌱 I’m currently learning **React.js, Angular, Redux, firebase**
+- 🌱 I’m currently learning **Pinia, Composition API, React.js, Angular, Redux, firebase**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GuyBarda](https://github.com/GuyBarda)
 
