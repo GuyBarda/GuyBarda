@@ -1,5 +1,5 @@
 <h1 align="center">Hello everyone , I'm Guy Barda</h1>
-<h3 align="center">A passionate Full-Stack / frontend developer looking for my next challenge!</h3>
+<h3 align="center">A passionate Full-Stack / frontend developer, who looks for his next challenge!</h3>
 
 - 🔭 I’m currently working on [Airbxb - an Airbnb clone](https://air-bxb.onrender.com/)
 
